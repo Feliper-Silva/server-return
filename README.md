@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
-- [Sqlite](https://www.sqlite.org/index.html)
+
 - [CORS](https://www.npmjs.com/package/nextjs-cors)
 - [Jest](https://jestjs.io/pt-BR/)
 
