@@ -32,6 +32,12 @@ git clone https://github.com/Feliper-Silva/server-return.git
 npm install
 ```
 
+```sh
+# iniciar as mirgration
+npx prisma migrate dev
+```
+
+
 Crie as chaves no arquivo .env
 
 ```sh
